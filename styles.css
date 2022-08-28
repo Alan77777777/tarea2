@@ -59,3 +59,30 @@ p {
     margin: 0px auto;
     text-align: left;
 }
+
+
+/* FOOTER */
+
+footer {
+    width: 100%;
+    margin-top: auto;
+}
+
+.attribution {
+    font-size: 8px;
+    text-align: center;
+    padding: 5px;
+}
+
+.attribution a {
+    color: greenyellow;
+    text-decoration: none;
+    font-size: 8px;
+    transition: all 0.1s;
+}
+
+.attribution a:hover {
+    color: white;
+    font-size: 9px;
+    transform: scale(1.1, 1.1);
+}
